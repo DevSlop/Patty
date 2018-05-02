@@ -1,2 +1,2 @@
-# Patty
-The Patty module is the DevSecOps pipeline that published DevSlop.co 
+# DevSlop-Patty
+Patty module of DevSlop: VSTS DevSecOps Pipeline, publishing to Azure
